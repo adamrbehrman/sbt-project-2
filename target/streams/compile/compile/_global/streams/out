@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/hadoop/work/projects/project-2/src/main/scala/stocksproject/StockAnalysis.scala:3:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hadoop/work/projects/project-2/src/main/scala/stocksproject/StockAnalysis.scala:7:13: not found: type SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m		val spark:SparkSession = SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m		          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hadoop/work/projects/project-2/src/main/scala/stocksproject/StockAnalysis.scala:7:28: not found: value SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m		val spark:SparkSession = SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m		                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
